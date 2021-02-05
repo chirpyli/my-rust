@@ -3,8 +3,8 @@ personal rust study notes.
 
 ### 异步
 - [Rust异步之Future](./async/Rust异步之Future.md)
+- [Rust异步之自己构造block_on](../Rust异步之自己构造block_on.md)
 - [Rust异步之tokio](./async/Rust异步之tokio.md)
-
 
 ### 其他
 - [Rust学习资料汇总](./Rust/Rust学习资料汇总.md)
