@@ -1,0 +1,19 @@
+[package]
+name = "block_on"
+version = "0.1.0"
+authors = ["shengli <s_lisheng@163.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4"
+simple_logger = "1.11.0"
+pin-utils = "0.1.0"
+async-task = "4.0.3"
+futures = "0.3"
+#tokio = { version = "1", futures = ["full"] }
+
+
+[dev-dependencies]
+tokio = { version = "1", features = ["full"] }
