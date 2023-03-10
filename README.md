@@ -25,9 +25,9 @@ personal rust study notes.
 - [log4rs日志库简析](./Rust/log4rs日志库简析.md)
 - [Rust关于ParticalEq与Eq](./Rust/cmp/particaleq/README.md)
 - [Rust中的Arc与Rc](./Rust/Rust中的Arc与Rc.md)
-
+- [实现一个基于栈的虚拟机](./Rust/vm/%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
 ### 个人编写的Rust程序
 
-- [craft](https://github.com/superLish/craft)
-- [lru-simple](https://github.com/superLish/lru-simple)
+- [lru-simple](https://github.com/chirpyli/data-structure/tree/master/lru/lru-simple)
+- [craft](./craft/)
