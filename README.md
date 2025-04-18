@@ -29,5 +29,6 @@ personal rust study notes.
 
 ### 个人编写的Rust程序
 
-- [lru-simple](https://github.com/chirpyli/data-structure/tree/master/lru/lru-simple)
+- [lru-simple](https://github.com/chirpyli/data-structure/tree/master/lru/lru-simple)   LRU算法的简单实现
 - [craft](./craft/)
+- [pgmq-demo](./pgmq-demo/)     Rust中使用PostgreSQL消息队列拓展PGMQ的使用示例
