@@ -32,3 +32,4 @@ personal rust study notes.
 - [lru-simple](https://github.com/chirpyli/data-structure/tree/master/lru/lru-simple)   LRU算法的简单实现
 - [craft](./craft/)
 - [pgmq-demo](./pgmq-demo/)     Rust中使用PostgreSQL消息队列拓展PGMQ的使用示例
+- [amqp-demo](./amqp-demo/)    Rust中使用RabbitMQ的使用示例，这里采用的是[lapin](https://docs.rs/lapin/latest/lapin/index.html)库
